@@ -1,4 +1,6 @@
 #!/bin/bash
+# This is simply sample code with absolutely no guarantee(s) of functionality.  Use at your own risk.
+
 
 # Specify the backup output directory
 directory=/var/backup
