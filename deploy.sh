@@ -1,4 +1,6 @@
 #!/bin/bash
+# This is simply sample code with absolutely no guarantee(s) of functionality.  Use at your own risk.
+
 SCRIPTNAME=${0##*/} 
 FULL_DIR=${PWD}
 CODEBASE_DIR=${PWD##*/}
